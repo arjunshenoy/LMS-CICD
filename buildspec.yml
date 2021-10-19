@@ -13,4 +13,4 @@ phases:
       - echo Build completed on `date`
 artifacts:
   files:
-    - target/aws-build-sample-maven-project-0.0.1-SNAPSHOT.jar
+    - target/lms-0.0.1-SNAPSHOT.jar
